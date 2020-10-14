@@ -75,8 +75,6 @@ namespace Ejercicio8
             bis = bisiesto(mes,anio);
 
 
-            
-
             switch (mes)
             {
                 case 1: Console.WriteLine("Enero");
