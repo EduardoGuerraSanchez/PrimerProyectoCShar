@@ -14,9 +14,6 @@ namespace Ejercicio9
             int b = 0;
             int res = 0;
 
-            
-
-
             try
             {
                 Console.WriteLine("Introduce tu primer numero");
@@ -34,7 +31,6 @@ namespace Ejercicio9
                 Console.WriteLine("Pa mi que no");
                 Console.ReadLine();
             }
-
         }
     }
 }
