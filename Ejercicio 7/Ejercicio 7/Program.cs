@@ -24,7 +24,9 @@ namespace Ejercicio_7
                 Console.WriteLine();
             }
 
+            Console.WriteLine("Introduce la fila: ");
             fila = System.Convert.ToInt32(System.Console.ReadLine());
+            Console.WriteLine("Introduce la columna: ");
             columna = System.Convert.ToInt32(System.Console.ReadLine());
 
 
